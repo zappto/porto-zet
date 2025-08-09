@@ -108,11 +108,11 @@ export const About = () => {
                                         </a>
                                         <a className="flex justify-start text-center items-start gap-5 mb-10">
                                             <Image src={LinkedIn} alt="Instagram-icon" height={30} width={30} className="" />
-                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">zovanfannevi34@gmail.com</h2>
+                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">Zovan Rizza</h2>
                                         </a>
                                         <a className="flex justify-start text-center items-start gap-5 mb-10">
                                             <Image src={Gmail} alt="Instagram-icon" height={30} width={30} className="" />
-                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">Zovan Rizza</h2>
+                                            <h2 className="text-white text-center justify-center items-center flex text-lg font-bold font-helvetica">zovanfannevi34@gmail.com</h2>
                                         </a>
                                     </div>
                                     {/* Elipse Effects */}
