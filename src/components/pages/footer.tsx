@@ -2,7 +2,7 @@
 
 import React from 'react'
 import { playFair } from '../global/fonts'
-import zovan from '../../../public/WhatsApp Image 2025-08-09 at 20.38.16.jpeg'
+import zovan from '../../../public/zovan.jpeg'
 import Image from 'next/image'
 
 export const Footer = () => {
