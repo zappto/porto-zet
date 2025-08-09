@@ -73,9 +73,9 @@ export const Works = () => {
 
                             {/* Arrow - Stay at Bottom */}
                             <div className="mt-auto flex justify-end">
-                                <div className="bg-[#DAA14B] rounded-full p-2 flex items-center justify-center ">
+                                <a href={work.link} target="_blank" className="bg-[#DAA14B] rounded-full p-2 flex items-center justify-center ">
                                     <MoveRight width={20} height={20} className="transition-transform duration-500 hover:[transform:rotateX(180deg)]" />
-                                </div>
+                                </a>
                             </div>
                         </div>
                     </div>
