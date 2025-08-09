@@ -10,32 +10,35 @@ export const Works = () => {
     const worksData = [
         {
             id: 1,
-            title: 'Abstract Image',
-            description:
-                'Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro tempore natus, sunt distinctio, laboriosam mollitia nisi quo doloribus id facere blanditiis fugiat, est neque expedita.',
-            tags: ['Pattern', 'Abstract'],
+            title: 'simple blue business dashboard',
+            description: 'blue gas sales business dashboard',
+            tags: ['Tracking', 'UI/UX', 'Simple'],
             image: gpm,
+            link: 'https://www.figma.com/design/lRfil1EOCVGC9F7m82x3L4/GPM-Project-FE?node-id=851-3811&t=ZBy7BJeFk1uk4uRe-1',
         },
         {
             id: 2,
-            title: 'Creative Design',
-            description: 'Desain kreatif yang mengekspresikan imajinasi tanpa batas dalam bentuk visual.',
-            tags: ['Design', 'Creative'],
+            title: ' Simple dashboard IOT',
+            description: 'IoT dashboard for tracking garbage bin schedules and capacities',
+            tags: ['Simple', 'UI/UX', 'Clean'],
             image: ecoTrack,
+            link: 'https://www.figma.com/design/780GbuSDfEfb70haziH1za/IOT-EcoTrack?node-id=0-1&t=1KUFsiSjHLFSYehr-1',
         },
         {
             id: 3,
-            title: 'Modern UI',
-            description: 'Tampilan antarmuka yang bersih dan modern untuk pengalaman pengguna terbaik.',
-            tags: ['UI', 'Modern'],
+            title: ' Modern UI portofolio',
+            description: 'Simple and clean personal portfolio design',
+            tags: ['modern', 'simple', 'UI/UX'],
             image: porto,
+            link: 'https://www.figma.com/design/A3YCAqjigpb1HAge6M4q2d/Portofolio---Zovan-Rizza?node-id=0-1&t=WCHHHCOlgP9Y1lqL-1',
         },
         {
             id: 4,
-            title: 'Modern UI',
-            description: 'Tampilan antarmuka yang bersih dan modern untuk pengalaman pengguna terbaik.',
-            tags: ['UI', 'Modern'],
+            title: ' landing page with a little parallax',
+            description: 'pet shop landing page with a little parallax scrolling',
+            tags: ['landing page', 'parallax', 'UI/UX'],
             image: project,
+            link: 'https://www.figma.com/design/2vnqwvHoSFqqAtUBys83i6/TA_15585?node-id=0-1&t=Vm3RGGg1pj1S7Nco-1',
         },
     ]
 

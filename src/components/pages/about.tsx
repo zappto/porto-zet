@@ -1,7 +1,7 @@
 'use client'
 import Image from 'next/image'
 import React, { useState } from 'react'
-import zovan from '../../../public/zovan.jpeg'
+import zovan from '../../../public/WhatsApp Image 2025-08-09 at 20.38.16.jpeg'
 import Instagram from '../../../public/Instagram.png'
 import LinkedIn from '../../../public/LinkedIn.png'
 import Gmail from '../../../public/Gmail.png'
@@ -14,7 +14,7 @@ export const About = () => {
     }
 
     return (
-        <div className="min-h-screen w-full bg-[#09606D] flex px-16 py-24 text-white" id='about'>
+        <div className="min-h-screen w-full bg-[#09606D] flex px-16 py-24 text-white" id="about">
             {/* Left Section */}
             <div className="max-w-4/5 w-full mt-3">
                 <h1 className="text-5xl font-helvetica-bold font-bold text-[#DAA14B] text-center mb-2">About Me</h1>
@@ -104,15 +104,15 @@ export const About = () => {
                                     <div className="px-10 gap-y-5">
                                         <a className="flex justify-start text-center items-start gap-5 mb-10" href="https://www.instagram.com/zovanrf/" target="_blank">
                                             <Image src={Instagram} alt="Instagram-icon" height={30} width={30} className="" />
-                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">Contact Me</h2>
+                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">zovanrf</h2>
                                         </a>
                                         <a className="flex justify-start text-center items-start gap-5 mb-10">
                                             <Image src={LinkedIn} alt="Instagram-icon" height={30} width={30} className="" />
-                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">Contact Me</h2>
+                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">zovanfannevi34@gmail.com</h2>
                                         </a>
                                         <a className="flex justify-start text-center items-start gap-5 mb-10">
                                             <Image src={Gmail} alt="Instagram-icon" height={30} width={30} className="" />
-                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">Contact Me</h2>
+                                            <h2 className="text-white text-center justify-center items-center flex text-xl font-bold font-helvetica">Zovan Rizza</h2>
                                         </a>
                                     </div>
                                     {/* Elipse Effects */}
